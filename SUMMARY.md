@@ -8,14 +8,15 @@
 
 ## JS <a id="java-script"></a>
 
+* [Webpack](java-script/webpack/README.md)
+  * [Module](java-script/webpack/module.md)
+  * [Bundle](java-script/webpack/bundle.md)
+  * [Webpack 기본 구조](java-script/webpack/webpack-1.md)
+
 ## Spring
 
-* [Webpack](spring/webpack.md)
 * [DB Connection](spring/db-connection/README.md)
-  * [Module](spring/db-connection/module.md)
   * [JDBC, DBCP, JNDI](spring/db-connection/jdbc-dbcp-jndi.md)
-  * [Bundle](spring/db-connection/bundle.md)
-  * [Webpack 기본 구조](spring/db-connection/webpack-1.md)
 
 ## React
 
